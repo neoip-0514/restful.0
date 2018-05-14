@@ -1,6 +1,6 @@
 # restful.0
 
-- ภฬ วมทฮมงฦฎดย SPRING INITIALIZR ทฮ ปýผบ ตส.
+- ์ด ๋ฌธ์๋” SPRING INITIALIZR ๋ก ์์ฑ ๋จ.
 https://start.spring.io/
 
 ## github
