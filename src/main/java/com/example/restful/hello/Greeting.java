@@ -1,4 +1,4 @@
-package com.example.restful0.hello;
+package com.example.restful.hello;
 
 public class Greeting {
 
